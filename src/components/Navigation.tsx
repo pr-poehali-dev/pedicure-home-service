@@ -32,6 +32,7 @@ const Navigation = ({ activeSection, setActiveSection }: NavigationProps) => {
     { id: 'home', label: 'Главная', icon: 'Home' },
     { id: 'services', label: 'Услуги', icon: 'Stethoscope' },
     { id: 'specialist', label: 'Специалист', icon: 'User' },
+    { id: 'portfolio', label: 'Работы', icon: 'Image' },
     { id: 'booking', label: 'Запись', icon: 'Calendar' },
     { id: 'reviews', label: 'Отзывы', icon: 'Star' },
     { id: 'contact', label: 'Контакты', icon: 'Phone' },
