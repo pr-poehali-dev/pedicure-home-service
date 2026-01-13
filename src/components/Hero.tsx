@@ -47,11 +47,11 @@ const Hero = () => {
 
             <div className="grid grid-cols-3 gap-6 pt-8 border-t">
               <div>
-                <div className="text-3xl font-bold text-primary">10+</div>
-                <div className="text-sm text-muted-foreground">лет опыта</div>
+                <div className="text-3xl font-bold text-primary">3.5</div>
+                <div className="text-sm text-muted-foreground">года опыта</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-primary">500+</div>
+                <div className="text-3xl font-bold text-primary">200+</div>
                 <div className="text-sm text-muted-foreground">довольных клиентов</div>
               </div>
               <div>

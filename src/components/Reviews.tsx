@@ -108,7 +108,7 @@ const Reviews = () => {
         <div className="inline-flex items-center gap-2 bg-primary/5 px-6 py-3 rounded-full">
           <Icon name="Star" className="text-primary fill-primary" size={20} />
           <span className="font-semibold text-lg">5.0</span>
-          <span className="text-muted-foreground">на основе 500+ отзывов</span>
+          <span className="text-muted-foreground">на основе 200+ отзывов</span>
         </div>
       </div>
     </div>
